@@ -6,7 +6,7 @@
 
 如果你每次开工都要打开几个终端窗口、找到项目目录、输入同样的命令，Foyer 可以帮你把这些步骤保存下来。下次只需点一下，就能启动网页项目、聊天工具或后台任务，随时查看状态和输出。
 
-**[下载最新版](https://github.com/tanshiqi/foyer-releases/releases/latest)** · [反馈问题](https://github.com/tanshiqi/foyer-releases/issues)
+**[下载最新版](https://github.com/pinweb/foyer-releases/releases/latest)** · [反馈问题](https://github.com/pinweb/foyer-releases/issues)
 
 ![Foyer 的服务列表、运行状态和实时日志，图中为示例项目](docs/images/foyer.png)
 
@@ -34,7 +34,7 @@ Foyer 目前提供 macOS 版本，请按你的 Mac 芯片选择安装包：
 
 不确定自己的机型？点击屏幕左上角的苹果菜单，打开「关于本机」即可查看。
 
-打开 [下载页面](https://github.com/tanshiqi/foyer-releases/releases/latest)，下载对应的 DMG，打开后将 **Foyer** 拖入「应用程序」文件夹，再从那里启动。
+打开 [下载页面](https://github.com/pinweb/foyer-releases/releases/latest)，下载对应的 DMG，打开后将 **Foyer** 拖入「应用程序」文件夹，再从那里启动。
 
 当前版本尚未经过 Apple 公证。如果首次打开时 macOS 提示无法验证开发者，请先确认安装包来自本项目，再参考 [Apple 的打开说明](https://support.apple.com/zh-cn/102445) 完成确认。
 
@@ -102,7 +102,7 @@ Foyer 不需要你安装 Go 或自行编译。不过，项目本身需要的工�
 
 ### 如何更新？
 
-Foyer 会自动检查更新，也可以从应用菜单、菜单栏或「设置 → 关于」中选择「检查更新…」。你也可以到 [下载页面](https://github.com/tanshiqi/foyer-releases/releases/latest) 获取新版，退出 Foyer 后替换「应用程序」中的旧版，已有服务配置会保留。替换前也可以先导出一份备份。
+Foyer 会自动检查更新，也可以从应用菜单、菜单栏或「设置 → 关于」中选择「检查更新…」。你也可以到 [下载页面](https://github.com/pinweb/foyer-releases/releases/latest) 获取新版，退出 Foyer 后替换「应用程序」中的旧版，已有服务配置会保留。替换前也可以先导出一份备份。
 
 ## 常用快捷键
 
@@ -111,4 +111,4 @@ Foyer 会自动检查更新，也可以从应用菜单、菜单栏或「设置 �
 - `⌘ F`：搜索日志
 - `⌘ ,`：打开设置
 
-遇到问题或有想法，欢迎到 [GitHub Issues](https://github.com/tanshiqi/foyer-releases/issues) 告诉我们。反馈时可以附上 macOS 版本、Mac 芯片类型和错误提示，分享日志前请先去掉私人信息。
+遇到问题或有想法，欢迎到 [GitHub Issues](https://github.com/pinweb/foyer-releases/issues) 告诉我们。反馈时可以附上 macOS 版本、Mac 芯片类型和错误提示，分享日志前请先去掉私人信息。

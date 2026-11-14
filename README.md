@@ -6,7 +6,7 @@ A home for your local services.
 
 If starting your day means opening several terminal windows, finding project folders and typing the same commands again, Foyer can save those steps for you. Start a web project, chat tool or background task with a click, and keep its status and output in view.
 
-**[Download the latest version](https://github.com/tanshiqi/foyer-releases/releases/latest)** · [Report an issue](https://github.com/tanshiqi/foyer-releases/issues)
+**[Download the latest version](https://github.com/pinweb/foyer-releases/releases/latest)** · [Report an issue](https://github.com/pinweb/foyer-releases/issues)
 
 ![Foyer showing example services, their status and live logs](docs/images/foyer-en.png)
 
@@ -34,7 +34,7 @@ Foyer is available for macOS. Choose the DMG for your Mac:
 
 Not sure which Mac you have? Open the Apple menu in the top-left corner and choose **About This Mac**.
 
-Visit the [download page](https://github.com/tanshiqi/foyer-releases/releases/latest), open the appropriate DMG and drag **Foyer** into **Applications**. Open it from there.
+Visit the [download page](https://github.com/pinweb/foyer-releases/releases/latest), open the appropriate DMG and drag **Foyer** into **Applications**. Open it from there.
 
 The current release is not notarized by Apple. If macOS cannot verify the developer on first launch, first make sure the download came from this repository, then follow [Apple's instructions](https://support.apple.com/en-us/102445).
 
@@ -102,7 +102,7 @@ Configurations and backups stay on your Mac, in `~/.config/foyer` by default. Op
 
 ### How do I update?
 
-Foyer checks for updates automatically and offers **Check for Updates…** in the app menu, menu bar and **Settings → About**. You can also download a new version from the [release page](https://github.com/tanshiqi/foyer-releases/releases/latest), quit Foyer and replace the older copy in Applications. Your service configuration is kept. You can export a backup first, too.
+Foyer checks for updates automatically and offers **Check for Updates…** in the app menu, menu bar and **Settings → About**. You can also download a new version from the [release page](https://github.com/pinweb/foyer-releases/releases/latest), quit Foyer and replace the older copy in Applications. Your service configuration is kept. You can export a backup first, too.
 
 ## Handy shortcuts
 
@@ -111,4 +111,4 @@ Foyer checks for updates automatically and offers **Check for Updates…** in th
 - `⌘ F`: Search logs
 - `⌘ ,`: Open Settings
 
-Have a question or an idea? Tell us in [GitHub Issues](https://github.com/tanshiqi/foyer-releases/issues). Include your macOS version, Mac chip type and any error messages. Remove private information before sharing logs.
+Have a question or an idea? Tell us in [GitHub Issues](https://github.com/pinweb/foyer-releases/issues). Include your macOS version, Mac chip type and any error messages. Remove private information before sharing logs.
