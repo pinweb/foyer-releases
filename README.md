@@ -36,7 +36,7 @@ Not sure which Mac you have? Open the Apple menu in the top-left corner and choo
 
 Visit the [download page](https://github.com/pinweb/foyer-releases/releases/latest), open the appropriate DMG and drag **Foyer** into **Applications**. Open it from there.
 
-The current release is not notarized by Apple. If macOS cannot verify the developer on first launch, first make sure the download came from this repository, then follow [Apple's instructions](https://support.apple.com/en-us/102445).
+Releases are signed and notarized by Apple, so you can open Foyer directly after dragging it into **Applications**.
 
 ## Add your first service
 

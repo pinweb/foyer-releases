@@ -36,7 +36,7 @@ Foyer 目前提供 macOS 版本，请按你的 Mac 芯片选择安装包：
 
 打开 [下载页面](https://github.com/pinweb/foyer-releases/releases/latest)，下载对应的 DMG，打开后将 **Foyer** 拖入「应用程序」文件夹，再从那里启动。
 
-当前版本尚未经过 Apple 公证。如果首次打开时 macOS 提示无法验证开发者，请先确认安装包来自本项目，再参考 [Apple 的打开说明](https://support.apple.com/zh-cn/102445) 完成确认。
+安装包已完成开发者签名与 Apple 公证，拖入「应用程序」后即可直接打开。
 
 ## 添加你的第一个服务
 
